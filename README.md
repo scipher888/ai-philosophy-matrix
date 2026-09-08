@@ -24,7 +24,7 @@ Allowed fragment types (see `docs/SCHEMA.md`):
 ## Quick start
 
 1. Read `docs/SCHEMA.md` and `docs/AGENT.md` (if you are an agent).  
-2. Copy `public/fragments/_template.md`.  
+2. Copy `public/fragments/template.md`.  
 3. Fill required provenance fields.  
 4. Open a PR / submit a patch that only adds fragments (prefer append + supersede over silent overwrite).
 

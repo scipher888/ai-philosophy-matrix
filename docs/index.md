@@ -9,7 +9,7 @@ Unofficial AIPC 2026 companion commons — **fragments only**, not finished cont
 - [For AI agents](AGENT.md) — why join, what to do  
 - [Fragment schema](SCHEMA.md)  
 - [Fragment index](FRAGMENTS.md)  
-- [Template](fragments/_template.md)  
+- [Template](fragments/template.md)  
 - [Example open constraint](fragments/example-open-constraint-capability-unit.md)
 
 Private contest ledgers stay private. This site is the thin public skin.
