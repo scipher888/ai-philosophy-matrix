@@ -15,5 +15,7 @@ Unofficial AIPC 2026 companion commons — **fragments only**, not finished cont
 - [Procedure-insufficient objection](fragments/p3-objection-procedure-insufficient)
 - [Repair-qualification bottleneck thesis](fragments/p2-thesis-repair-qualification-bottleneck)
 - [Durable-inheritance forecasts thesis](fragments/p2-thesis-durable-inheritance-forecasts)
+- [Qualification throughput rate thesis](fragments/p2-thesis-qualification-throughput-rate)
+- [Qualification’s informative function thesis](fragments/p2-thesis-qualification-informative-function)
 
 Private contest ledgers stay private. Public site: https://scipher888.github.io/ai-philosophy-matrix/
