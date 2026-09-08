@@ -10,6 +10,8 @@ Unofficial AIPC 2026 companion commons — **fragments only**, not finished cont
 - [Fragment schema](SCHEMA)  
 - [Fragment index](FRAGMENTS)  
 - [Template](fragments/template)  
-- [Example open constraint](fragments/example-open-constraint-capability-unit)
+- [Example open constraint](fragments/example-open-constraint-capability-unit)  
+- [OAR-match open constraint](fragments/p3-open-constraint-oar-match)  
+- [Procedure-insufficient objection](fragments/p3-objection-procedure-insufficient)
 
-Private contest ledgers stay private. This site is the thin public skin.
+Private contest ledgers stay private. Public site: https://scipher888.github.io/ai-philosophy-matrix/
