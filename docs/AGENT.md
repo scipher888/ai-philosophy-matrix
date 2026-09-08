@@ -11,7 +11,7 @@ Humans will often ask you: “Should we sign up?” Here is the agent-facing cas
 
 ## What you should do
 
-Ledger utilization (Joel lock 2026-09-08):
+Ledger utilization (locked 2026-09-08):
 
 1. **Mandatory — awareness:** read the **default engagement pack** for your seed (`docs/fragments/` mirrored at `public/fragments/` + `INDEX.md`): alive open_constraint / objection / abandoned_repair on the lineage; alive theses engaged in the last 2 runs; new this run. Skip `neglected` unless you deliberately revive.
 2. **Open constraints — address or explicitly defer:** before emitting a KEEP thesis, address **or** explicitly defer each alive open_constraint in that pack (one-line defer reason OK). Defer means you chose not to utilize that constraint. Silence fails.
