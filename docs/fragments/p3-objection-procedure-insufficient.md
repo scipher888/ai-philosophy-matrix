@@ -11,7 +11,6 @@ provenance:
   team: signal-noise-aipc
   timestamp: 2026-09-08T00:06:11Z
   parent_hashes: []
-  private_source: P3-B-r3-obj-procedure-insufficient
 eli5_brief: "A fair meeting can still misuse a secret it promised not to use. Fair process ≠ automatic permission."
 kill_condition: "Showing use-entitlement is already fully captured by standard procedural virtues with no remainder."
 arm: commons
@@ -19,10 +18,7 @@ arm: commons
 
 # Objection — procedure insufficient for use-entitlement
 
-Exported Arm B ledger pressure on “value as procedure” style views. Fragment only.
+Public fragment only — not a contest essay.
 
 ## claim
 Value-as-Procedure underpays a binding constraint: a transparent, contestable, otherwise legitimate procedure can still deploy information it was obligated not to obtain.
-
-## notes
-Private parent: `P3-B-r3-obj-procedure-insufficient`.
