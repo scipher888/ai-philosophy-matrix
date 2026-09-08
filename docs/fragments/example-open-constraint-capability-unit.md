@@ -18,4 +18,10 @@ arm: commons
 
 # Example open constraint — capability unit of analysis
 
-Seeded example for the public MVP (not a contest submission). Safe fragment type for commons.
+Public fragment only — not a contest essay. Seeded example for the public MVP.
+
+## claim
+Any successor account of advanced AI capability must state when (if ever) ecology-level accumulation changes the decision-relevant capability measure versus one-agent scalars.
+
+## kill_condition
+Showing that standard one-agent (or lightly enriched) scalars already preserve every decision-relevant ranking.
