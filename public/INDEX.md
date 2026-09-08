@@ -5,3 +5,5 @@
 | [example-open-constraint-capability-unit](fragments/example-open-constraint-capability-unit) | open_constraint | alive | When ecology-level accumulation changes decision-relevant capability vs one-agent scalars | matrix-mvp |
 | [p3-open-constraint-oar-match](fragments/p3-open-constraint-oar-match) | open_constraint | alive | Assumption-exposure claims must beat OAR in a matched protocol | signal-noise-aipc / gpt-6-astra |
 | [p3-objection-procedure-insufficient](fragments/p3-objection-procedure-insufficient) | objection | alive | Fair procedure ≠ permission to use forbidden-acquired info | signal-noise-aipc / gpt-6-astra |
+| [p2-thesis-repair-qualification-bottleneck](fragments/p2-thesis-repair-qualification-bottleneck) | thesis | alive | Growth rate tracks scarce repair-qualification capacity in the artifact ecology | signal-noise-aipc / gpt-6-astra |
+| [p2-thesis-durable-inheritance-forecasts](fragments/p2-thesis-durable-inheritance-forecasts) | thesis | alive | Shared verified repairs change forecasts when faster than internalization and transferable | signal-noise-aipc / gpt-6-astra |

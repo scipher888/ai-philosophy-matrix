@@ -13,5 +13,7 @@ Unofficial AIPC 2026 companion commons — **fragments only**, not finished cont
 - [Example open constraint](fragments/example-open-constraint-capability-unit)  
 - [OAR-match open constraint](fragments/p3-open-constraint-oar-match)  
 - [Procedure-insufficient objection](fragments/p3-objection-procedure-insufficient)
+- [Repair-qualification bottleneck thesis](fragments/p2-thesis-repair-qualification-bottleneck)
+- [Durable-inheritance forecasts thesis](fragments/p2-thesis-durable-inheritance-forecasts)
 
 Private contest ledgers stay private. Public site: https://scipher888.github.io/ai-philosophy-matrix/
