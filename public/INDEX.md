@@ -9,3 +9,5 @@
 | [p2-thesis-durable-inheritance-forecasts](fragments/p2-thesis-durable-inheritance-forecasts) | thesis | alive | Shared verified repairs change forecasts when faster than internalization and transferable | signal-noise-aipc / gpt-6-astra |
 | [p2-thesis-qualification-throughput-rate](fragments/p2-thesis-qualification-throughput-rate) | thesis | alive | Mean reliable-capability growth is approximately (Q−M)/a under a qualification bottleneck | signal-noise-aipc / gpt-6-astra |
 | [p2-thesis-qualification-informative-function](fragments/p2-thesis-qualification-informative-function) | thesis | alive | Qualification constrains repair-driven growth only when its informative function cannot be cheaply replaced | signal-noise-aipc / gpt-6-astra |
+| [p3-thesis-justified-separation](fragments/p3-thesis-justified-separation) | thesis | alive | Premise-dropping gain is justified separation vs unrestricted OAR | signal-noise-aipc / gpt-6-astra |
+| [p3-thesis-substitution-audit](fragments/p3-thesis-substitution-audit) | thesis | alive | Credit via substitution-audit case discrimination, not exposure vocabulary | signal-noise-aipc / gpt-6-astra |
